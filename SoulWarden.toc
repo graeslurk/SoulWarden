@@ -4,6 +4,7 @@
 ## Author: Graeslurk
 ## Version: @project-version@
 ## X-License: All Rights Reserved
+## X-Curse-Project-ID: 1745072
 ## Category: Class
 ## IconTexture: Interface\AddOns\SoulWarden\Media\icon
 ## SavedVariables: SoulWardenDB
