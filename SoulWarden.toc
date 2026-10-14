@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: Soul Warden
+## Notes: Keeps your soul shards at a limit you choose: each press of a hotkey or macro deletes one spare shard. Type /soulwarden to open it.
+## Author: Graeslurk
+## Version: @project-version@
+## X-License: All Rights Reserved
+## Category: Class
+## IconTexture: Interface\AddOns\SoulWarden\Media\icon
+## SavedVariables: SoulWardenDB
+## AddonCompartmentFunc: SoulWarden_OnAddonCompartmentClick
+
+Locales/Locales.lua
+
+SoulWarden.lua
+UI.lua
+Minimap.lua

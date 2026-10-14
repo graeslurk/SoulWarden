@@ -1,0 +1,8 @@
+<Bindings>
+    <Binding name="SOULWARDEN_DELETE" category="Soul Warden">
+        SoulWarden_DeleteShard()
+    </Binding>
+    <Binding name="SOULWARDEN_TOGGLE" category="Soul Warden">
+        SoulWarden_ToggleWindow()
+    </Binding>
+</Bindings>
