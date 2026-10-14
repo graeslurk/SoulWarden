@@ -42,7 +42,7 @@ and any error message you got.
 ## About me
 
 Hi, I'm Graeslurk! I play WoW Forever and make addons in my spare time. I also
-made [Pocket Goblin](https://github.com/graeslurk/PocketGoblin).
+made [Pocket Goblin](https://www.curseforge.com/wow/addons/pocketgoblinforever).
 
 Bug reports and ideas are very welcome: open an issue here on GitHub.
 
